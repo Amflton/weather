@@ -1,0 +1,222 @@
+.weather_cloud_download{
+  background-image: url("svg/Cloud-Download.svg");
+ }
+ .weather_cloud_drizzle_alt{
+  background-image: url("svg/Cloud-Drizzle-Alt.svg");
+ }
+ .weather_cloud_drizzle_moon_alt{
+  background-image: url("svg/Cloud-Drizzle-Moon-Alt.svg");
+ }
+ .weather_cloud_drizzle_moon{
+  background-image: url("svg/Cloud-Drizzle-Moon.svg");
+ }
+ .weather_cloud_drizzle_sun_alt{
+  background-image: url("svg/Cloud-Drizzle-Sun-Alt.svg");
+ }
+ .weather_cloud_drizzle_sun{
+  background-image: url("svg/Cloud-Drizzle-Sun.svg");
+ }
+ .weather_cloud_drizzle{
+  background-image: url("svg/Cloud-Drizzle.svg");
+ }
+ .weather_cloud_fog_alt{
+  background-image: url("svg/Cloud-Fog-Alt.svg");
+ }
+ .weather_cloud_fog_moon_alt{
+  background-image: url("svg/Cloud-Fog-Moon-Alt.svg");
+ }
+ .weather_cloud_fog_moon{
+  background-image: url("svg/Cloud-Fog-Moon.svg");
+ }
+ .weather_cloud_fog_sun_alt{
+  background-image: url("svg/Cloud-Fog-Sun-Alt.svg");
+ }
+ .weather_cloud_fog_sun{
+  background-image: url("svg/Cloud-Fog-Sun.svg");
+ }
+ .weather_cloud_fog{
+  background-image: url("svg/Cloud-Fog.svg");
+ }
+ .weather_cloud_hail_alt{
+  background-image: url("svg/Cloud-Hail-Alt.svg");
+ }
+ .weather_cloud_hail_moon_alt{
+  background-image: url("svg/Cloud-Hail-Moon-Alt.svg");
+ }
+ .weather_cloud_hail_moon{
+  background-image: url("svg/Cloud-Hail-Moon.svg");
+ }
+ .weather_cloud_hail_sun_alt{
+  background-image: url("svg/Cloud-Hail-Sun-Alt.svg");
+ }
+ .weather_cloud_hail_sun{
+  background-image: url("svg/Cloud-Hail-Sun.svg");
+ }
+ .weather_cloud_hail{
+  background-image: url("svg/Cloud-Hail.svg");
+ }
+ .weather_cloud_lightning_moon{
+  background-image: url("svg/Cloud-Lightning-Moon.svg");
+ }
+ .weather_cloud_lightning_sun{
+  background-image: url("svg/Cloud-Lightning-Sun.svg");
+ }
+ .weather_cloud_lightning{
+  background-image: url("svg/Cloud-Lightning.svg");
+ }
+ .weather_cloud_moon{
+  background-image: url("svg/Cloud-Moon.svg");
+ }
+ .weather_cloud_rain_alt{
+  background-image: url("svg/Cloud-Rain-Alt.svg");
+ }
+ .weather_cloud_rain_moon_alt{
+  background-image: url("svg/Cloud-Rain-Moon-Alt.svg");
+ }
+ .weather_cloud_rain_moon{
+  background-image: url("svg/Cloud-Rain-Moon.svg");
+ }
+ .weather_cloud_rain_sun_alt{
+  background-image: url("svg/Cloud-Rain-Sun-Alt.svg");
+ }
+ .weather_cloud_rain_sun{
+  background-image: url("svg/Cloud-Rain-Sun.svg");
+ }
+ .weather_cloud_rain{
+  background-image: url("svg/Cloud-Rain.svg");
+ }
+ .weather_cloud_refresh{
+  background-image: url("svg/Cloud-Refresh.svg");
+ }
+ .weather_cloud_snow_alt{
+  background-image: url("svg/Cloud-Snow-Alt.svg");
+ }
+ .weather_cloud_snow_moon_alt{
+  background-image: url("svg/Cloud-Snow-Moon-Alt.svg");
+ }
+ .weather_cloud_snow_moon{
+  background-image: url("svg/Cloud-Snow-Moon.svg");
+ }
+ .weather_cloud_snow_sun_alt{
+  background-image: url("svg/Cloud-Snow-Sun-Alt.svg");
+ }
+ .weather_cloud_snow_sun{
+  background-image: url("svg/Cloud-Snow-Sun.svg");
+ }
+ .weather_cloud_snow{
+  background-image: url("svg/Cloud-Snow.svg");
+ }
+ .weather_cloud_sun{
+  background-image: url("svg/Cloud-Sun.svg");
+ }
+ .weather_cloud_upload{
+  background-image: url("svg/Cloud-Upload.svg");
+ }
+ .weather_cloud_wind_moon{
+  background-image: url("svg/Cloud-Wind-Moon.svg");
+ }
+ .weather_cloud_wind_sun{
+  background-image: url("svg/Cloud-Wind-Sun.svg");
+ }
+ .weather_cloud_wind{
+  background-image: url("svg/Cloud-Wind.svg");
+ }
+ .weather_cloud{
+  background-image: url("svg/Cloud.svg");
+ }
+ .weather_compass_east{
+  background-image: url("svg/Compass-East.svg");
+ }
+ .weather_compass_north{
+  background-image: url("svg/Compass-North.svg");
+ }
+ .weather_compass_south{
+  background-image: url("svg/Compass-South.svg");
+ }
+ .weather_compass_west{
+  background-image: url("svg/Compass-West.svg");
+ }
+ .weather_compass{
+  background-image: url("svg/Compass.svg");
+ }
+ .weather_degrees_celcius{
+  background-image: url("svg/Degrees-Celcius.svg");
+ }
+ .weather_degrees_fahrenheit{
+  background-image: url("svg/Degrees-Fahrenheit.svg");
+ }
+ .weather_moon_first_quarter{
+  background-image: url("svg/Moon-First-Quarter.svg");
+ }
+ .weather_moon_full{
+  background-image: url("svg/Moon-Full.svg");
+ }
+ .weather_moon_last_quarter{
+  background-image: url("svg/Moon-Last-Quarter.svg");
+ }
+ .weather_moon_new{
+  background-image: url("svg/Moon-New.svg");
+ }
+ .weather_moon_waning_crescent{
+  background-image: url("svg/Moon-Waning-Crescent.svg");
+ }
+ .weather_moon_waning_gibbous{
+  background-image: url("svg/Moon-Waning-Gibbous.svg");
+ }
+ .weather_moon_waxing_crescent{
+  background-image: url("svg/Moon-Waxing-Crescent.svg");
+ }
+ .weather_moon_waxing_gibbous{
+  background-image: url("svg/Moon-Waxing-Gibbous.svg");
+ }
+ .weather_moon{
+  background-image: url("svg/Moon.svg");
+ }
+ .weather_shades{
+  background-image: url("svg/Shades.svg");
+ }
+ .weather_snowflake{
+  background-image: url("svg/Snowflake.svg");
+ }
+ .weather_sun_low{
+  background-image: url("svg/Sun-Low.svg");
+ }
+ .weather_sun_lower{
+  background-image: url("svg/Sun-Lower.svg");
+ }
+ .weather_sun{
+  background-image: url("svg/Sun.svg");
+ }
+ .weather_sunrise{
+  background-image: url("svg/Sunrise.svg");
+ }
+ .weather_sunset{
+  background-image: url("svg/Sunset.svg");
+ }
+ .weather_thermometer_100{
+  background-image: url("svg/Thermometer-100.svg");
+ }
+ .weather_thermometer_25{
+  background-image: url("svg/Thermometer-25.svg");
+ }
+ .weather_thermometer_50{
+  background-image: url("svg/Thermometer-50.svg");
+ }
+ .weather_thermometer_75{
+  background-image: url("svg/Thermometer-75.svg");
+ }
+ .weather_thermometer_zero{
+  background-image: url("svg/Thermometer-Zero.svg");
+ }
+ .weather_thermometer{
+  background-image: url("svg/Thermometer.svg");
+ }
+ .weather_tornado{
+  background-image: url("svg/Tornado.svg");
+ }
+ .weather_umbrella{
+  background-image: url("svg/Umbrella.svg");
+ }
+ .weather_wind{
+  background-image: url("svg/Wind.svg");
+ }

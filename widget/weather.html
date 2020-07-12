@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Виджет погоды</title>
+	<link rel="stylesheet" type="text/css" href="css/icon_styles.css">
+	<link rel="stylesheet" type="text/css" href="css/weather.css">
+</head>
+<body>
+	<div id="weather_container">
+		<div>
+			<div class="weather_image weather_cloud_hail_sun_alt"></div>
+			<div>
+ 				<div class="weather_temp_day">-49°</div>
+				<div class="weather_temp_night">-79°</div>
+				<div class="weather_info">гроза с сильным моросящим дождем</div>
+			</div>
+		</div>
+
+		<div>
+			<div class="weather_image weather_cloud_hail_sun_alt"></div>
+			<div>
+ 				<div class="weather_temp_day">-49°</div>
+				<div class="weather_temp_night">-79°</div>
+				<div class="weather_info">гроза с сильным моросящим дождем</div> 
+			</div>
+		</div>
+
+		<div>
+			<div class="weather_image weather_cloud_hail_sun_alt"></div>
+			<div>
+ 				<div class="weather_temp_day">-49°</div>
+				<div class="weather_temp_night">-79°</div>
+				<div class="weather_info">гроза с сильным моросящим дождем</div> 
+			</div>
+		</div>
+
+		<div>
+			<div class="weather_image weather_cloud_hail_sun_alt"></div>
+			<div>
+ 				<div class="weather_temp_day">-49°</div>
+				<div class="weather_temp_night">-79°</div>
+				<div class="weather_info">гроза с сильным моросящим дождем</div> 
+			</div>
+		</div>
+	</div>
+	<div class="weather_town">Кременчуг-Константиновское</div>
+</body>
+<script type="text/javascript">
+
+	window.onload = function resize() {
+
+		var iframe = window.frameElement;
+		var container = document.getElementById('weather_container');
+
+		if (iframe.hasAttribute('width')) {
+
+			const coef = container.offsetHeight / container.offsetWidth;
+
+			var width  = iframe.width;
+			var height = Math.floor(width * coef);
+
+			container.style.width  = width + "px";
+			container.style.height = height + "px";
+
+			iframe.style.height = height + "px";
+
+		}else {
+			iframe.style.width  = container.offsetWidth + "px";
+			iframe.style.height = container.offsetHeight + "px";
+		}
+	}
+</script>
+</html>
