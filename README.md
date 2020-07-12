@@ -1,2 +1,3 @@
 # weather
 Виджет погоды
+localhost
