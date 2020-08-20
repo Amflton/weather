@@ -8,23 +8,6 @@ html {
 	color: #fff;
 
 	overflow: hidden;
-}
-
-body { margin: 0; }
-
-#weather_container {
-
-	position: relative;
-
-	width: 1040px;
-	height: 390px;
-	box-sizing: border-box;
-	padding: 1.9%;
-
-	display: flex;
-	flex-wrap: nowrap;
-
-	background-color: #000;
 
 }
 
